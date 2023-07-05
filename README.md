@@ -6,14 +6,15 @@ Pedro is a machine learning project that predicts short squeezes in the stock ma
 
 ## Data Collection:
 
-Short Float
-2023 Short Interest Data Files
+Short Data
 https://shortsqueeze.com/2023.php
 
 Insider Trading
+https://github.com/JackLacey18/Insider-Trades
+https://www.kaggle.com/datasets/jacklacey/insider-trades-for-1000-companies
 
 
 
 Filters
-Short Float = >20%
+Short Float = >17%
 Market Cap = >$300,000,000 
