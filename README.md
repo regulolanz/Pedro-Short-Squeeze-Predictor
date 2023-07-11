@@ -2,11 +2,8 @@
 
 ## Table of Contents
 
-Pedro is a machine learning project focused on predicting short squeezes in the stock market. By analyzing historical data on short float percentages and insider trading activity, Pedro aims to identify stocks with a high potential for rapid price increases. Leveraging various machine learning models, Pedro provides investors with insights to make informed trading decisions and take advantage of short squeeze opportunities in the market.
-
-## Table of Contents
-
 - [Project Overview](#project-overview)
+- [Concepts Review](#concepts-review)
 - [Installation and Usage](#installation-and-usage)
 - [Data Prepation](#data-preparation)
 - [Machine Learning Models](#machine-learning-models)
@@ -14,6 +11,24 @@ Pedro is a machine learning project focused on predicting short squeezes in the 
 - [Analysis](#analysis)
 - [Conclusion](#conclusion)
 
+## Project Overview
+
+Pedro is a machine learning project focused on predicting short squeezes in the stock market. By analyzing historical data on short float percentages and insider trading activity, Pedro aims to identify stocks with a high potential for rapid price increases. Leveraging various machine learning models, Pedro provides investors with insights to make informed trading decisions and take advantage of short squeeze opportunities in the market.
+
+## Concepts Review
+
+### Short Squeeze
+
+- A short squeeze is a market phenomenon that occurs when a heavily shorted stock experiences a rapid increase in price. Short selling is a trading strategy where investors borrow shares of a stock and sell them, expecting the price to decline. They plan to buy back the shares at a lower price to return them to the lender and profit from the price difference.
+
+- However, if the stock price starts to rise instead of falling, short sellers may panic and rush to buy back the shares to limit their losses. This increased demand for the stock can lead to a surge in its price, forcing more short sellers to cover their positions by buying shares. The buying pressure created by short sellers can amplify the upward movement of the stock, causing a short squeeze.
+
+### Insider Trading
+
+- Insider trading refers to the buying or selling of stocks by individuals with access to non-public information. Insiders are legally required to disclose their trades to the regulatory authorities, such as the Securities and Exchange Commission (SEC) in the United States. The disclosed information typically includes the date of the trade, the number of shares bought or sold, and the price at which the transaction took place.
+
+- Analyzing insider trading activity provides insights into the sentiment and confidence of insiders, large-scale insider buying may indicate that insiders believe the stock is undervalued and have positive expectations for its future performance.
+ 
 ## Installation and Usage
 
 1. Install the required libraries:
@@ -22,13 +37,13 @@ Pedro is a machine learning project focused on predicting short squeezes in the 
 pip install numpy pandas yfinance tensorflow pandas_market_calendars scikit-learn imbalanced-learn
 ```
 
-2. Clone the repository or download the Python script:
+2. Clone the repository:
 
 ```bash
 git clone https://github.com/regulolanz/Pedro-Short-Squeeze-Predictor
 ```
 
-3. Run the code project:
+3. Run the project:
 
 ```css
 python Pedro.py
