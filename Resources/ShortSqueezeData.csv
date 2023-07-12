@@ -1,0 +1,94 @@
+Date,Symbol,Short % of Float,Total Amount,Market Cap,% Insider Ownership,Relation,Company Name,Sector,Close Price Day 1,Close Price Day 2,Close Price Day 5,Close Price Day 7,Close Price Day 15,Close Price Day 30,Return (1 Days),Return (2 Days),Return (5 Days),Return (7 Days),Return (15 Days),Return (30 Days),Highest Day Return,Highest Close Price,Short Squeeze
+2022-02-09,ASAN,26.61,3498910.93,4969085000.0,23.3,"Large Shareholder, Officer, Director",Asana Inc. Class A Common Stock,Technology,61.03,64.62,73.2,67.18,53.08,44.18,0.0,5.88,19.94,10.08,-13.03,-27.61,19.94,73.2,1
+2022-02-10,ASAN,26.61,1400743.32,4969085000.0,23.3,"Large Shareholder, Officer, Director",Asana Inc. Class A Common Stock,Technology,64.62,61.56,74.13,63.14,48.67,42.7,0.0,-4.74,14.72,-2.29,-24.68,-33.92,14.72,74.13,1
+2022-02-11,ASAN,26.61,1035540.04,4969085000.0,23.3,"Large Shareholder, Officer, Director",Asana Inc. Class A Common Stock,Technology,61.56,68.66,67.18,60.78,45.44,37.9,0.0,11.53,9.13,-1.27,-26.19,-38.43,11.53,68.66,0
+2022-02-16,ASAN,26.61,12355033.74,4969085000.0,23.3,"Large Shareholder, Officer, Director",Asana Inc. Class A Common Stock,Technology,74.13,67.18,46.8,54.1,48.81,41.69,0.0,-9.38,-36.87,-27.02,-34.16,-43.76,0.0,74.13,0
+2022-02-17,ASAN,26.61,3026193.7,4969085000.0,23.3,"Large Shareholder, Officer, Director",Asana Inc. Class A Common Stock,Technology,67.18,63.14,54.35,54.79,38.01,39.97,0.0,-6.01,-19.1,-18.44,-43.42,-40.5,0.0,67.18,0
+2022-02-18,ASAN,26.61,698310.87,4969085000.0,23.3,"Large Shareholder, Officer, Director",Asana Inc. Class A Common Stock,Technology,63.14,60.78,54.1,54.96,34.56,40.0,0.0,-3.74,-14.32,-12.96,-45.26,-36.65,0.0,63.14,0
+2022-09-07,ASAN,17.92,349999986.32,2637013500.0,30.69,"Large Shareholder, Officer, Director",Asana Inc. Class A Common Stock,Technology,19.04,23.76,25.42,25.56,21.47,20.58,0.0,24.79,33.51,34.24,12.76,8.09,34.24,25.56,1
+2022-02-24,ASAN,26.61,749065.36,4969085000.0,23.3,"Large Shareholder, Officer, Director",Asana Inc. Class A Common Stock,Technology,54.35,54.1,53.08,45.44,37.17,36.4,0.0,-0.46,-2.34,-16.39,-31.61,-33.03,0.0,54.35,0
+2022-02-25,ASAN,26.61,1299702.03,4969085000.0,23.3,"Large Shareholder, Officer, Director",Asana Inc. Class A Common Stock,Technology,54.1,54.79,48.67,42.32,39.02,36.41,0.0,1.28,-10.04,-21.77,-27.87,-32.7,1.28,54.79,0
+2021-11-12,ATUS,20.71,1001230.0,4739196700.0,13.47,Director,Altice Usa Inc Class A,Communication Services,17.4,17.3,17.28,16.94,16.93,16.08,0.0,-0.57,-0.69,-2.64,-2.7,-7.59,0.0,17.4,0
+2021-09-27,AXDX,22.47,799500.0,338772000.0,45.14,"Large Shareholder, Director",Accelerate Diagnostics Inc,Healthcare,5.31,5.62,5.96,5.53,6.63,6.19,0.0,5.84,12.24,4.14,24.86,16.57,24.86,6.63,1
+2021-11-18,AXDX,20.41,605508.8,335109600.0,45.14,"Large Shareholder, Director",Accelerate Diagnostics Inc,Healthcare,5.26,5.18,5.49,4.96,4.87,5.22,0.0,-1.52,4.37,-5.7,-7.41,-0.76,4.37,5.49,0
+2021-09-24,AXDX,23.17,1047490.0,332057600.0,45.14,"Large Shareholder, Director",Accelerate Diagnostics Inc,Healthcare,5.44,5.31,5.83,5.55,6.68,6.08,0.0,-2.39,7.17,2.02,22.79,11.76,22.79,6.68,1
+2021-11-29,AXDX,20.41,5000000.0,335109600.0,45.14,"Large Shareholder, Director",Accelerate Diagnostics Inc,Healthcare,4.96,5.0,4.97,4.93,5.0,4.48,0.0,0.81,0.2,-0.6,0.81,-9.68,0.81,5.0,0
+2021-08-20,CPE,22.17,5275290.7,1505300400.0,2.78,Large Shareholder,Callon Petroleum Company,Energy,26.98,29.51,31.71,33.77,33.06,50.43,0.0,9.38,17.53,25.17,22.54,86.92,86.92,50.43,1
+2021-08-23,CPE,22.17,4463976.31,1505300400.0,2.78,Large Shareholder,Callon Petroleum Company,Energy,29.51,31.22,34.24,34.17,35.38,53.93,0.0,5.79,16.03,15.79,19.89,82.75,82.75,53.93,1
+2022-05-11,CRSR,26.79,580000.0,1331223600.0,3.26,Director,Corsair Gaming Inc. - Common Stock,Technology,13.9,14.04,16.0,15.14,15.83,14.36,0.0,1.01,15.11,8.92,13.88,3.31,15.11,16.0,1
+2022-06-10,CWH,35.15,1011093.92,1055467000.0,4.1,"Large Shareholder, Officer, Director",Camping World Holdings Inc Class A Commom Stock,Consumer Cyclical,26.77,25.57,23.13,22.91,21.91,26.26,0.0,-4.48,-13.6,-14.42,-18.15,-1.91,0.0,26.77,0
+2022-09-23,ESTE,29.3,1705050.0,475387800.0,10.03,"Large Shareholder, Other",Earthstone Energy Inc Class A,Energy,11.24,10.77,12.21,13.57,14.52,15.82,0.0,-4.18,8.63,20.73,29.18,40.75,40.75,15.82,1
+2022-10-06,ESTE,29.3,14750000.0,475387800.0,10.03,"Large Shareholder, Other",Earthstone Energy Inc Class A,Energy,15.26,14.81,13.98,13.68,16.12,17.04,0.0,-2.95,-8.39,-10.35,5.64,11.66,11.66,17.04,0
+2022-11-30,EVA,17.13,1528166.9,2270501600.0,3.91,Director,Enviva Partners Lpunits Representing Limi,Basic Materials,56.75,57.25,55.44,55.87,53.13,50.74,0.0,0.88,-2.31,-1.55,-6.38,-10.59,0.88,57.25,0
+2023-05-05,EVA,19.9,542634.56,361070600.0,3.91,Director,Enviva Partners Lpunits Representing Limi,Basic Materials,9.01,8.96,8.69,8.29,8.37,11.88,0.0,-0.55,-3.55,-7.99,-7.1,31.85,31.85,11.88,1
+2023-05-08,EVA,19.9,1022000.0,361070600.0,3.91,Director,Enviva Partners Lpunits Representing Limi,Basic Materials,8.96,9.02,8.44,8.01,8.54,11.77,0.0,0.67,-5.8,-10.6,-4.69,31.36,31.36,11.77,1
+2023-04-21,FATE,29.95,1586029.02,567061200.0,1.46,"Large Shareholder, Director",Fate Therapeutics Inc,Healthcare,6.22,6.34,5.84,6.36,5.26,5.25,0.0,1.93,-6.11,2.25,-15.43,-15.59,2.25,6.36,0
+2021-08-20,FNKO,17.07,3085712.65,722442600.0,16.71,Large Shareholder,Funko Inc - Class A,Consumer Cyclical,18.1,18.34,19.71,18.65,18.01,19.02,0.0,1.33,8.9,3.04,-0.5,5.08,8.9,19.71,0
+2021-08-31,GDRX,30.94,23993237.78,2948648400.0,8.45,Large Shareholder,GoodRx Holdings Inc. - Class A Common Stock,Healthcare,38.02,37.97,41.65,42.09,46.36,40.63,0.0,-0.13,9.55,10.7,21.94,6.86,21.94,46.36,1
+2021-09-01,GDRX,30.94,1347487.2,2948648400.0,8.45,Large Shareholder,GoodRx Holdings Inc. - Class A Common Stock,Healthcare,37.97,39.73,39.93,42.39,45.53,42.11,0.0,4.64,5.16,11.64,19.91,10.9,19.91,45.53,1
+2021-09-03,GDRX,30.94,1470951.25,2948648400.0,8.45,Large Shareholder,GoodRx Holdings Inc. - Class A Common Stock,Healthcare,41.71,41.65,42.39,44.61,44.13,42.42,0.0,-0.14,1.63,6.95,5.8,1.7,6.95,44.61,0
+2021-09-07,GDRX,30.94,5863406.67,2948648400.0,8.45,Large Shareholder,GoodRx Holdings Inc. - Class A Common Stock,Healthcare,41.65,39.93,44.22,44.29,42.79,42.06,0.0,-4.13,6.17,6.34,2.74,0.98,6.34,44.29,0
+2021-09-08,GDRX,30.94,2303588.64,2948648400.0,8.45,Large Shareholder,GoodRx Holdings Inc. - Class A Common Stock,Healthcare,39.93,42.09,44.61,45.93,40.02,44.51,0.0,5.41,11.72,15.03,0.23,11.47,15.03,45.93,1
+2022-03-22,GME,18.59,855395.41,10226449800.0,17.98,"Large Shareholder, Director",Gamestop Corporation,Consumer Cyclical,30.78,35.25,47.4,41.71,36.73,30.11,0.0,14.5,53.96,35.5,19.32,-2.2,53.96,47.4,1
+2022-09-13,GOEV,18.82,515800.0,484500000.0,23.98,"Large Shareholder, Officer, Director",Canoo Inc. - Class A Common Stock,Consumer Cyclical,2.55,2.6,2.5,2.4,1.84,1.36,0.0,1.96,-1.96,-5.88,-27.84,-46.67,1.96,2.6,0
+2022-08-12,GOEV,24.4,797000.0,866875000.0,23.98,"Large Shareholder, Officer, Director",Canoo Inc. - Class A Common Stock,Consumer Cyclical,4.28,3.96,3.81,3.59,3.01,2.22,0.0,-7.48,-10.98,-16.12,-29.67,-48.13,0.0,4.28,0
+2021-11-22,GOEV,29.72,230334440.04,2940250000.0,58.21,"Large Shareholder, Officer, Director",Canoo Inc. - Class A Common Stock,Consumer Cyclical,11.43,11.54,12.89,11.31,9.08,7.75,0.0,0.96,12.77,-1.05,-20.56,-32.2,12.77,12.89,1
+2022-07-15,GOSS,21.77,999998.16,882833300.0,11.27,"Officer, Director",Gossamer Bio Inc,Healthcare,11.08,11.28,12.02,11.79,12.85,14.06,0.0,1.81,8.48,6.41,15.97,26.9,26.9,14.06,1
+2022-04-25,GRPN,20.28,1352916.24,398944000.0,21.67,Other,Groupon Inc,Communication Services,20.09,19.37,19.51,19.13,14.76,15.02,0.0,-3.58,-2.89,-4.78,-26.53,-25.24,0.0,20.09,0
+2022-05-09,GRPN,25.68,3272806.9,332841600.0,21.67,"Large Shareholder, Other",Groupon Inc,Communication Services,15.66,13.7,14.76,14.31,15.58,15.34,0.0,-12.52,-5.75,-8.62,-0.51,-2.04,0.0,15.66,0
+2022-05-24,GRPN,26.02,2247920.35,473782400.0,21.67,"Large Shareholder, Other",Groupon Inc,Communication Services,11.43,13.97,15.45,15.68,14.79,10.96,0.0,22.22,35.17,37.18,29.4,-4.11,37.18,15.68,1
+2022-04-26,GRPN,20.28,1305051.55,398944000.0,21.67,Other,Groupon Inc,Communication Services,19.37,19.12,20.35,19.39,14.12,14.76,0.0,-1.29,5.06,0.1,-27.1,-23.8,5.06,20.35,0
+2022-05-10,GRPN,25.68,4734939.64,332841600.0,21.67,"Large Shareholder, Other",Groupon Inc,Communication Services,13.7,12.73,14.12,12.7,15.45,14.91,0.0,-7.08,3.07,-7.3,12.77,8.83,12.77,15.45,0
+2022-04-27,GRPN,20.28,3883511.46,398944000.0,21.67,Other,Groupon Inc,Communication Services,19.12,20.28,19.13,18.53,14.31,16.37,0.0,6.07,0.05,-3.09,-25.16,-14.38,6.07,20.28,0
+2022-05-11,GRPN,25.68,680200.0,332841600.0,21.67,"Large Shareholder, Other",Groupon Inc,Communication Services,12.73,14.23,14.31,12.52,15.45,15.53,0.0,11.78,12.41,-1.65,21.37,22.0,22.0,15.53,1
+2022-03-31,GRPN,18.87,1514218.82,566092800.0,21.67,Other,Groupon Inc,Communication Services,19.23,19.16,19.78,20.06,19.51,14.23,0.0,-0.36,2.86,4.32,1.46,-26.0,4.32,20.06,0
+2022-04-01,GRPN,18.87,580948.23,566092800.0,21.67,Other,Groupon Inc,Communication Services,19.16,19.96,19.96,19.44,18.78,14.76,0.0,4.18,4.18,1.46,-1.98,-22.96,4.18,19.96,0
+2022-04-04,GRPN,18.87,1138230.26,566092800.0,21.67,Other,Groupon Inc,Communication Services,19.96,20.28,20.06,19.59,20.09,14.12,0.0,1.6,0.5,-1.85,0.65,-29.26,1.6,20.28,0
+2022-04-05,GRPN,18.87,530931.04,566092800.0,21.67,Other,Groupon Inc,Communication Services,20.28,19.78,19.44,19.66,19.37,14.31,0.0,-2.47,-4.14,-3.06,-4.49,-29.44,0.0,20.28,0
+2022-04-06,GRPN,18.87,2297670.4,566092800.0,21.67,Other,Groupon Inc,Communication Services,19.78,19.96,19.59,19.82,19.12,12.7,0.0,0.91,-0.96,0.2,-3.34,-35.79,0.91,19.96,0
+2022-04-07,GRPN,18.87,622703.41,566092800.0,21.67,Other,Groupon Inc,Communication Services,19.96,20.06,19.66,19.36,20.28,12.52,0.0,0.5,-1.5,-3.01,1.6,-37.27,1.6,20.28,0
+2022-05-23,GRPN,25.68,613135.98,332841600.0,21.67,"Large Shareholder, Other",Groupon Inc,Communication Services,12.13,11.43,15.58,15.45,14.69,10.64,0.0,-5.77,28.44,27.37,21.1,-12.28,28.44,15.58,1
+2022-04-08,GRPN,18.87,1188934.97,566092800.0,21.67,Other,Groupon Inc,Communication Services,20.06,19.44,19.82,20.7,19.51,12.07,0.0,-3.09,-1.2,3.19,-2.74,-39.83,3.19,20.7,0
+2022-04-11,GRPN,18.87,1142421.03,566092800.0,21.67,Other,Groupon Inc,Communication Services,19.44,19.59,19.36,19.74,20.35,12.13,0.0,0.77,-0.41,1.54,4.68,-37.6,4.68,20.35,0
+2022-04-19,GRPN,18.87,1740669.23,566092800.0,21.67,Other,Groupon Inc,Communication Services,20.7,19.74,20.09,19.12,15.66,15.45,0.0,-4.64,-2.95,-7.63,-24.35,-25.36,0.0,20.7,0
+2022-04-20,GRPN,18.87,889583.52,566092800.0,21.67,Other,Groupon Inc,Communication Services,19.74,19.51,19.37,20.28,13.7,15.45,0.0,-1.17,-1.87,2.74,-30.6,-21.73,2.74,20.28,0
+2022-04-21,GRPN,18.87,1462386.32,566092800.0,21.67,Other,Groupon Inc,Communication Services,19.51,18.78,19.12,19.51,12.73,15.68,0.0,-3.74,-2.0,0.0,-34.75,-19.63,0.0,19.51,0
+2021-08-18,KDNY,25.42,2497830.0,520850200.0,13.76,Director,Chinook Therapeutics Inc. - Common Stock,Healthcare,11.99,12.13,13.67,13.91,13.54,12.49,0.0,1.17,14.01,16.01,12.93,4.17,16.01,13.91,1
+2023-03-29,KSS,19.97,2018350.0,3608913000.0,1.23,"Officer, Director",Kohls Corporation,Consumer Cyclical,22.05,22.88,24.01,22.66,23.45,19.97,0.0,3.76,8.89,2.77,6.35,-9.43,8.89,24.01,0
+2022-05-10,LAZR,18.45,2666550.0,1987993700.0,10.19,"Large Shareholder, Officer, Director",Luminar Technologies Inc. - Class A Common Stock,Technology,9.42,8.54,9.99,9.9,10.34,7.39,0.0,-9.34,6.05,5.1,9.77,-21.55,9.77,10.34,0
+2022-05-11,LAZR,18.45,2595840.0,1987993700.0,10.19,"Large Shareholder, Officer, Director",Luminar Technologies Inc. - Class A Common Stock,Technology,8.54,8.9,10.38,10.07,9.78,7.66,0.0,4.22,21.55,17.92,14.52,-10.3,21.55,10.38,1
+2023-05-15,LAZR,29.73,7959545.31,1478673000.0,13.48,"Large Shareholder, Officer, Director",Luminar Technologies Inc. - Class A Common Stock,Technology,6.07,6.01,6.27,6.46,6.75,6.33,0.0,-0.99,3.29,6.43,11.2,4.28,11.2,6.75,0
+2023-05-16,LAZR,29.73,4841848.89,1478673000.0,13.48,"Large Shareholder, Officer, Director",Luminar Technologies Inc. - Class A Common Stock,Technology,6.01,6.54,7.05,6.3,7.17,6.63,0.0,8.82,17.3,4.83,19.3,10.32,19.3,7.17,1
+2022-09-06,LAZR,25.47,500252.78,2208621100.0,13.48,Director,Luminar Technologies Inc. - Class A Common Stock,Technology,8.21,8.56,9.41,8.89,7.3,7.31,0.0,4.26,14.62,8.28,-11.08,-10.96,14.62,9.41,1
+2021-11-17,REKR,21.14,534750.0,487714500.0,26.72,"Officer, Director",Rekor Systems Inc,Technology,7.08,7.86,6.59,6.53,7.0,6.64,0.0,11.02,-6.92,-7.77,-1.13,-6.21,11.02,7.86,0
+2023-02-09,RILY,18.71,507396.25,1033763800.0,46.01,Director,B. Riley Financial Inc,Financial Services,39.53,40.78,45.13,43.1,38.58,28.71,0.0,3.16,14.17,9.03,-2.4,-27.37,14.17,45.13,1
+2022-09-14,RILY,18.46,1186397.5,1244758200.0,46.01,"Large Shareholder, Officer, Director",B. Riley Financial Inc,Financial Services,47.44,47.42,51.4,50.69,46.67,46.32,0.0,-0.04,8.35,6.85,-1.62,-2.36,8.35,51.4,0
+2022-08-30,RILY,20.04,1229337.5,1399741200.0,46.01,"Large Shareholder, Officer, Director",B. Riley Financial Inc,Financial Services,49.12,49.77,48.53,49.9,51.4,42.78,0.0,1.32,-1.2,1.59,4.64,-12.91,4.64,51.4,0
+2022-08-01,RILY,19.92,1303370.0,1521008600.0,46.01,Director,B. Riley Financial Inc,Financial Services,52.14,53.54,55.73,55.94,56.06,51.48,0.0,2.69,6.89,7.29,7.52,-1.27,7.52,56.06,0
+2022-08-31,RILY,20.04,1243897.5,1399741200.0,46.01,"Large Shareholder, Officer, Director",B. Riley Financial Inc,Financial Services,49.77,50.53,48.62,50.96,51.76,41.86,0.0,1.53,-2.31,2.39,4.0,-15.89,4.0,51.76,0
+2023-05-16,RILY,27.69,659062.0,1002767200.0,46.01,"Large Shareholder, Officer, Director",B. Riley Financial Inc,Financial Services,33.7,36.41,37.55,36.83,37.94,46.62,0.0,8.04,11.42,9.29,12.58,38.34,38.34,46.62,1
+2022-08-02,RILY,19.92,654173.75,1521008600.0,46.01,Director,B. Riley Financial Inc,Financial Services,53.54,55.7,56.75,56.08,53.9,48.64,0.0,4.03,6.0,4.74,0.67,-9.15,6.0,56.75,0
+2022-12-05,RILY,18.98,2196025.0,1176239400.0,46.01,"Large Shareholder, Officer, Director",B. Riley Financial Inc,Financial Services,43.0,41.91,43.26,43.23,31.88,40.17,0.0,-2.53,0.6,0.53,-25.86,-6.58,0.6,43.26,0
+2023-03-17,RILY,24.26,747462.5,733042400.0,46.01,"Large Shareholder, Officer, Director",B. Riley Financial Inc,Financial Services,29.78,30.02,28.71,28.33,25.27,31.5,0.0,0.81,-3.59,-4.87,-15.14,5.78,5.78,31.5,0
+2023-05-08,RILY,33.59,866412.5,1065848000.0,46.01,"Large Shareholder, Officer, Director",B. Riley Financial Inc,Financial Services,36.85,39.2,34.41,33.7,38.01,43.19,0.0,6.38,-6.62,-8.55,3.15,17.2,17.2,43.19,0
+2023-02-08,RILY,19.66,5460788.08,1074820700.0,46.01,"Large Shareholder, Officer, Director",B. Riley Financial Inc,Financial Services,39.6,39.53,43.49,43.91,38.72,30.07,0.0,-0.18,9.82,10.88,-2.22,-24.07,10.88,43.91,1
+2022-12-14,RILY,18.98,1627243.56,1176239400.0,46.01,"Large Shareholder, Officer, Director",B. Riley Financial Inc,Financial Services,41.9,41.56,38.82,33.26,34.33,44.75,0.0,-0.81,-7.35,-20.62,-18.07,6.8,6.8,44.75,0
+2021-08-04,RNA,18.99,14400000.0,744876000.0,19.61,Large Shareholder,Avidity Biosciences Inc. - Common Stock,Healthcare,19.65,19.66,19.8,19.85,21.22,22.88,0.0,0.05,0.76,1.02,7.99,16.44,16.44,22.88,0
+2023-03-07,SAVA,27.62,1990629.76,991847900.0,6.79,Director,Cassava Sciences Inc,Healthcare,25.2,24.97,25.62,26.05,24.14,24.56,0.0,-0.91,1.67,3.37,-4.21,-2.54,3.37,26.05,0
+2022-07-08,SBOW,25.85,3704113.25,318432200.0,11.81,Large Shareholder,Silverbow Resorces Inc,Energy,30.01,29.53,27.93,30.85,43.96,47.18,0.0,-1.6,-6.93,2.8,46.48,57.21,57.21,47.18,1
+2022-07-11,SBOW,25.85,5836276.35,318432200.0,11.81,Large Shareholder,Silverbow Resorces Inc,Energy,29.53,26.23,29.25,32.61,45.19,46.87,0.0,-11.18,-0.95,10.43,53.03,58.72,58.72,46.87,1
+2021-09-13,SFIX,17.55,8638104.0,3140251300.0,3.45,Large Shareholder,Stitch Fix Inc - Class A,Consumer Cyclical,36.0,35.69,35.51,35.46,41.15,34.52,0.0,-0.86,-1.36,-1.5,14.31,-4.11,14.31,41.15,0
+2021-09-14,SFIX,17.55,9753474.7,3140251300.0,3.45,Large Shareholder,Stitch Fix Inc - Class A,Consumer Cyclical,35.69,33.64,36.37,41.01,38.19,34.98,0.0,-5.74,1.91,14.91,7.0,-1.99,14.91,41.01,1
+2021-09-15,SFIX,17.55,10335930.0,3140251300.0,3.45,Large Shareholder,Stitch Fix Inc - Class A,Consumer Cyclical,33.64,34.21,35.46,41.28,36.12,33.45,0.0,1.69,5.41,22.71,7.37,-0.56,22.71,41.28,1
+2021-09-16,SFIX,17.55,7838415.0,3140251300.0,3.45,Large Shareholder,Stitch Fix Inc - Class A,Consumer Cyclical,34.21,35.51,41.01,43.73,35.4,32.52,0.0,3.8,19.88,27.83,3.48,-4.94,27.83,43.73,1
+2021-09-17,SFIX,17.55,5248755.0,3140251300.0,3.45,Large Shareholder,Stitch Fix Inc - Class A,Consumer Cyclical,35.51,36.37,41.28,42.79,36.91,34.09,0.0,2.42,16.25,20.5,3.94,-4.0,20.5,42.79,1
+2021-09-20,SFIX,17.55,8038710.0,3140251300.0,3.45,Large Shareholder,Stitch Fix Inc - Class A,Consumer Cyclical,36.37,35.46,43.73,41.6,34.46,34.6,0.0,-2.5,20.24,14.38,-5.25,-4.87,20.24,43.73,1
+2021-09-21,SFIX,17.55,7295600.0,3140251300.0,3.45,Large Shareholder,Stitch Fix Inc - Class A,Consumer Cyclical,35.46,41.01,42.79,39.48,32.86,34.46,0.0,15.65,20.67,11.34,-7.33,-2.82,20.67,42.79,1
+2021-10-14,SFIX,19.01,1719500.0,2359676600.0,3.45,Large Shareholder,Stitch Fix Inc - Class A,Consumer Cyclical,34.53,33.65,33.62,34.52,34.9,27.79,0.0,-2.55,-2.64,-0.03,1.07,-19.52,1.07,34.9,0
+2021-10-15,SFIX,19.01,1699360.0,2359676600.0,3.45,Large Shareholder,Stitch Fix Inc - Class A,Consumer Cyclical,33.65,33.29,34.86,34.98,35.74,27.93,0.0,-1.07,3.6,3.95,6.21,-17.0,6.21,35.74,0
+2021-11-09,SKLZ,25.49,998016.0,3200351000.0,14.88,Director,Skillz Inc. Class A Common Stock,Communication Services,248.0,238.4,236.0,217.6,185.8,173.8,0.0,-3.87,-4.84,-12.26,-25.08,-29.92,0.0,248.0,0
+2021-11-08,SKLZ,24.61,4969207.5,4053560000.0,14.88,"Large Shareholder, Officer, Director",Skillz Inc. Class A Common Stock,Communication Services,246.8,248.0,250.0,233.6,190.0,157.6,0.0,0.49,1.3,-5.35,-23.01,-36.14,1.3,250.0,0
+2022-05-12,UWMC,24.79,1010056.36,399035700.0,0.2,"Officer, Director",UWM Holdings Corporation Class A Common Stock,Financial Services,3.7,3.79,4.01,3.96,4.09,3.83,0.0,2.43,8.38,7.03,10.54,3.51,10.54,4.09,0
+2022-03-03,W,21.38,1222400.0,9837764400.0,6.07,Director,Wayfair Inc Class A,Consumer Cyclical,124.08,124.81,126.71,114.45,121.07,117.0,0.0,0.59,2.12,-7.76,-2.43,-5.71,2.12,126.71,0
+2022-05-19,W,29.2,1745100.0,3533396400.0,6.07,Director,Wayfair Inc Class A,Consumer Cyclical,49.72,51.42,50.3,59.04,54.0,45.32,0.0,3.42,1.17,18.74,8.61,-8.85,18.74,59.04,1
+2021-11-22,W,24.05,2589800.0,21686404800.0,6.31,Director,Wayfair Inc Class A,Consumer Cyclical,258.53,259.8,267.51,244.14,205.55,186.28,0.0,0.49,3.47,-5.57,-20.49,-27.95,3.47,267.51,0
