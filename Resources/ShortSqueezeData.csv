@@ -1,0 +1,246 @@
+Date,Symbol,Short % of Float,Total Amount,Market Cap,% Insider Ownership,Relation,Sector,% from 50 day MA,Return (5 Days),Return (7 Days),Return (15 Days),Return (30 Days),Short Squeeze
+2022-08-19,ABCL,10.26,2292460.0,3210520500.0,28.82,Large Shareholder,Healthcare,8.61,6.47,-7.08,-2.1,-13.55,0
+2021-07-19,AFIB,12.34,9999990.0,433469800.0,2.26,"Large Shareholder, Director",Healthcare,7.7,24.72,11.05,15.53,-0.3,1
+2022-05-24,AHCO,12.52,1727230.0,2269454400.0,27.42,Director,Healthcare,11.01,3.69,4.78,-0.58,11.01,0
+2022-06-13,AHCO,10.25,1722010.0,2490454800.0,27.42,Director,Healthcare,19.33,0.35,4.25,7.33,22.4,1
+2022-06-14,AHCO,10.25,1705592.7,2490454800.0,27.42,Director,Healthcare,19.33,1.86,6.49,8.46,23.71,1
+2022-06-16,AHCO,10.25,1678270.0,2490454800.0,27.42,Director,Healthcare,19.33,9.02,14.36,15.37,31.22,1
+2022-06-01,AHCO,12.52,616499.74,2269454400.0,27.42,Director,Healthcare,11.01,1.76,-0.51,1.53,11.1,0
+2022-06-17,AMEH,12.69,9250000.0,2216500000.0,32.52,Large Shareholder,Healthcare,9.48,15.43,13.62,28.74,57.47,1
+2021-08-04,AON,11.57,764399.98,60329784000.0,1.0,Director,Financial Services,9.31,3.06,6.01,7.74,13.2,0
+2022-03-01,APPN,11.28,540538.64,2217766000.0,1.26,Large Shareholder,Technology,-1.52,-11.24,-5.61,1.93,-8.73,0
+2022-03-07,APPN,11.28,503076.0,2217766000.0,1.26,Large Shareholder,Technology,-1.52,-0.51,-8.0,13.91,-1.25,0
+2022-03-08,APPN,11.28,989771.29,2217766000.0,1.26,Large Shareholder,Technology,-1.52,-11.65,-3.5,16.21,-0.33,1
+2022-03-09,APPN,11.28,979261.56,2217766000.0,1.26,Large Shareholder,Technology,-1.52,-13.48,5.04,18.1,-8.34,1
+2022-03-10,APPN,11.28,905279.64,2217766000.0,1.26,Large Shareholder,Technology,-1.52,-8.97,8.28,9.3,-10.17,0
+2022-03-11,APPN,11.28,908221.52,2217766000.0,1.26,Large Shareholder,Technology,-1.52,12.27,15.42,15.34,-5.94,1
+2022-01-24,APPN,13.25,655275.88,1933659000.0,1.26,Large Shareholder,Technology,-26.99,-1.43,12.38,4.62,0.8,1
+2022-01-25,APPN,13.25,569992.59,1933659000.0,1.26,Large Shareholder,Technology,-26.99,13.58,8.83,9.39,8.76,1
+2022-02-23,APPN,12.0,2709211.12,2310632000.0,1.26,Large Shareholder,Technology,-0.71,15.29,12.16,-5.85,18.52,1
+2022-02-24,APPN,12.0,564824.4,2310632000.0,1.26,Large Shareholder,Technology,-0.71,3.26,-8.35,-11.08,-2.78,0
+2022-03-14,APPN,11.28,1468144.15,2217766000.0,1.26,Large Shareholder,Technology,-1.52,29.92,31.08,27.83,6.06,1
+2022-03-15,APPN,11.28,1207553.62,2217766000.0,1.26,Large Shareholder,Technology,-1.52,24.82,28.57,33.26,-0.8,1
+2022-03-16,APPN,11.28,1147695.15,2217766000.0,1.26,Large Shareholder,Technology,-1.52,20.0,21.79,17.83,-8.24,1
+2022-03-17,APPN,11.28,1497057.12,2217766000.0,1.26,Large Shareholder,Technology,-1.52,5.9,1.98,-3.8,-14.56,0
+2022-02-01,APPN,13.25,2486843.45,1933659000.0,1.26,Large Shareholder,Technology,-26.99,-6.84,0.1,-10.59,-17.48,0
+2022-08-05,ARQT,12.64,5000000.0,1247216400.0,4.32,Large Shareholder,Healthcare,12.35,-1.27,-1.71,-6.06,-29.03,0
+2022-02-09,ASAN,26.61,3498910.93,4969085000.0,23.3,"Large Shareholder, Officer, Director",Technology,-12.74,19.94,10.08,-13.03,-27.61,1
+2022-02-10,ASAN,26.61,1400743.32,4969085000.0,23.3,"Large Shareholder, Officer, Director",Technology,-12.74,14.72,-2.29,-24.68,-33.92,1
+2022-01-13,ASAN,14.23,4309245.0,4421659000.0,23.3,"Large Shareholder, Officer, Director",Technology,-39.1,-13.28,-11.22,-25.23,-12.18,0
+2022-02-11,ASAN,26.61,1035540.04,4969085000.0,23.3,"Large Shareholder, Officer, Director",Technology,-12.74,9.13,-1.27,-26.19,-38.43,0
+2021-12-30,ASAN,15.4,1083491.91,6050159500.0,13.36,"Large Shareholder, Officer, Director",Technology,-30.47,-21.01,-20.05,-30.23,-15.61,0
+2022-01-14,ASAN,14.23,2377155.45,4421659000.0,23.3,"Large Shareholder, Officer, Director",Technology,-39.1,-16.2,-15.97,-20.06,-8.96,0
+2022-01-03,ASAN,15.4,882234.18,6050159500.0,13.36,"Large Shareholder, Officer, Director",Technology,-30.47,-14.57,-8.08,-23.68,-4.19,0
+2022-02-16,ASAN,26.61,12355033.74,4969085000.0,23.3,"Large Shareholder, Officer, Director",Technology,-12.74,-36.87,-27.02,-34.16,-43.76,0
+2022-01-04,ASAN,15.4,793981.14,6050159500.0,13.36,"Large Shareholder, Officer, Director",Technology,-30.47,-10.57,-5.05,-26.55,6.32,0
+2022-01-19,ASAN,14.23,1792279.2,4421659000.0,23.3,"Large Shareholder, Officer, Director",Technology,-39.1,-4.73,-14.36,3.54,0.0,0
+2022-02-17,ASAN,26.61,3026193.7,4969085000.0,23.3,"Large Shareholder, Officer, Director",Technology,-12.74,-19.1,-18.44,-43.42,-40.5,0
+2022-01-20,ASAN,14.23,3145983.75,4421659000.0,23.3,"Large Shareholder, Officer, Director",Technology,-39.1,-9.88,-10.15,14.25,-8.89,0
+2022-02-18,ASAN,26.61,698310.87,4969085000.0,23.3,"Large Shareholder, Officer, Director",Technology,-12.74,-14.32,-12.96,-45.26,-36.65,0
+2022-01-06,ASAN,15.4,7044684.48,6050159500.0,13.36,"Large Shareholder, Officer, Director",Technology,-30.47,6.05,-2.37,-26.25,8.99,0
+2022-01-21,ASAN,14.23,2614769.9,4421659000.0,23.3,"Large Shareholder, Officer, Director",Technology,-39.1,-9.86,4.07,28.14,-9.89,1
+2022-01-07,ASAN,15.4,1338761.6,6050159500.0,13.36,"Large Shareholder, Officer, Director",Technology,-30.47,0.62,-13.08,-21.59,3.14,0
+2022-01-10,ASAN,15.4,795473.0,6050159500.0,13.36,"Large Shareholder, Officer, Director",Technology,-30.47,-2.26,-13.79,-14.76,-1.28,0
+2022-09-07,ASAN,17.92,349999986.32,2637013500.0,30.69,"Large Shareholder, Officer, Director",Technology,37.73,33.51,34.24,12.76,8.09,1
+2022-01-26,ASAN,14.23,1074864.0,4421659000.0,23.3,"Large Shareholder, Officer, Director",Technology,-39.1,10.95,-4.32,52.06,1.39,1
+2022-02-24,ASAN,26.61,749065.36,4969085000.0,23.3,"Large Shareholder, Officer, Director",Technology,-12.74,-2.34,-16.39,-31.61,-33.03,0
+2022-01-27,ASAN,14.23,6147581.1,4421659000.0,23.3,"Large Shareholder, Officer, Director",Technology,-39.1,10.1,5.83,63.07,-16.39,1
+2022-02-25,ASAN,26.61,1299702.03,4969085000.0,23.3,"Large Shareholder, Officer, Director",Technology,-12.74,-10.04,-21.77,-27.87,-32.7,0
+2022-01-28,ASAN,14.23,1213268.76,4421659000.0,23.3,"Large Shareholder, Officer, Director",Technology,-39.1,-4.04,1.88,39.96,-28.0,1
+2022-02-02,ASAN,14.23,2100602.9,4421659000.0,23.3,"Large Shareholder, Officer, Director",Technology,-39.1,9.81,29.11,-6.49,-25.73,1
+2022-02-03,ASAN,14.23,4258894.5,4421659000.0,23.3,"Large Shareholder, Officer, Director",Technology,-39.1,32.5,33.65,18.0,-15.28,1
+2022-02-04,ASAN,14.23,1448011.47,4421659000.0,23.3,"Large Shareholder, Officer, Director",Technology,-39.1,34.32,42.71,12.45,-8.71,1
+2021-11-11,ATEC,10.52,585500.0,883121800.0,31.73,"Officer, Director",Healthcare,-8.69,4.28,-3.51,-5.39,5.99,0
+2022-12-07,ATLC,13.6,8823750.0,445952000.0,66.54,"Large Shareholder, Officer, Director",Financial Services,-0.89,6.45,-3.31,-7.7,12.89,0
+2021-11-12,ATUS,20.71,1001230.0,4739196700.0,13.47,Director,Communication Services,-13.07,-0.69,-2.64,-2.7,-7.59,0
+2021-09-27,AXDX,22.47,799500.0,338772000.0,45.14,"Large Shareholder, Director",Healthcare,-9.47,12.24,4.14,24.86,16.57,1
+2021-11-18,AXDX,20.41,605508.8,335109600.0,45.14,"Large Shareholder, Director",Healthcare,-7.67,4.37,-5.7,-7.41,-0.76,0
+2021-09-24,AXDX,23.17,1047490.0,332057600.0,45.14,"Large Shareholder, Director",Healthcare,-14.16,7.17,2.02,22.79,11.76,1
+2021-11-29,AXDX,20.41,5000000.0,335109600.0,45.14,"Large Shareholder, Director",Healthcare,-7.67,0.2,-0.6,0.81,-9.68,0
+2022-05-24,CAR,11.89,1247361.13,12105340800.0,1.59,"Officer, Director",Industrials,-27.61,8.57,12.96,-8.53,-10.43,1
+2022-06-10,CAR,11.25,2188352.25,11371810800.0,1.59,"Officer, Director",Industrials,-25.68,-4.54,-4.89,-10.2,-4.73,0
+2022-05-18,CAR,11.38,4937400.0,12243663600.0,1.59,"Officer, Director",Industrials,-31.57,-5.9,-0.64,-0.97,-21.03,0
+2022-05-25,CCL,12.3,1175500.0,11412586200.0,8.99,Director,Consumer Cyclical,-28.74,10.59,10.92,-19.21,-26.03,1
+2021-08-23,CERE,10.54,1145585.86,3559957800.0,21.96,Director,Healthcare,25.88,14.15,19.11,30.4,12.68,1
+2021-08-24,CERE,10.54,1934472.53,3559957800.0,21.96,Director,Healthcare,25.88,10.88,20.55,25.92,8.95,1
+2021-08-25,CERE,10.54,1753826.59,3559957800.0,21.96,Director,Healthcare,25.88,8.46,19.32,21.48,5.93,1
+2021-08-26,CERE,10.54,2057060.81,3559957800.0,21.96,Director,Healthcare,25.88,12.95,18.05,22.38,9.29,1
+2021-12-01,CLF,10.81,988250.0,10497388000.0,8.87,"Officer, Director",Basic Materials,-3.87,7.63,6.86,0.97,17.29,0
+2022-03-11,COTY,10.6,2487510.0,6182507700.0,58.72,"Officer, Director",Consumer Defensive,-11.18,8.53,8.16,9.5,-1.71,0
+2021-08-20,CPE,22.17,5275290.7,1505300400.0,2.78,Large Shareholder,Energy,-30.55,17.53,25.17,22.54,86.92,1
+2021-08-23,CPE,22.17,4463976.31,1505300400.0,2.78,Large Shareholder,Energy,-30.55,16.03,15.79,19.89,82.75,1
+2022-12-21,CRMT,12.41,4632932.0,466685700.0,9.0,Large Shareholder,Consumer Cyclical,1.93,1.13,4.3,13.73,38.24,1
+2022-05-11,CRSR,26.79,580000.0,1331223600.0,3.26,Director,Technology,-20.75,15.11,8.92,13.88,3.31,1
+2022-11-15,CRSR,16.33,34999998.0,1548792000.0,3.64,"Large Shareholder, Director",Technology,23.06,-1.09,1.94,-1.81,-21.11,0
+2022-06-10,CWH,35.15,1011093.92,1055467000.0,4.1,"Large Shareholder, Officer, Director",Consumer Cyclical,-13.07,-13.6,-14.42,-18.15,-1.91,0
+2022-08-01,CYH,10.56,600000.0,458525800.0,6.29,"Officer, Director",Healthcare,-14.62,16.17,14.52,4.29,6.93,1
+2022-08-02,CYH,10.56,2352000.0,458525800.0,6.29,"Officer, Director",Healthcare,-14.62,26.67,26.67,10.53,5.61,1
+2021-09-15,DBI,12.51,2253766.98,900234800.0,10.98,"Large Shareholder, Officer, Director",Consumer Cyclical,-0.73,7.89,11.13,14.21,4.26,1
+2021-09-16,DBI,12.51,7660140.0,900234800.0,10.98,"Large Shareholder, Officer, Director",Consumer Cyclical,-0.73,9.23,8.05,6.96,1.41,0
+2021-09-30,DBI,13.44,2423600.74,814901400.0,10.98,"Large Shareholder, Officer, Director",Consumer Cyclical,-11.75,-1.79,-1.51,-6.46,3.95,0
+2021-09-17,DBI,12.51,10266640.0,900234800.0,10.98,"Large Shareholder, Officer, Director",Consumer Cyclical,-0.73,9.66,19.7,9.42,3.82,1
+2021-09-20,DBI,12.51,1155879.99,900234800.0,10.98,"Large Shareholder, Officer, Director",Consumer Cyclical,-0.73,4.22,16.21,3.47,2.04,1
+2023-01-24,DCPH,15.05,29999988.0,1035745200.0,27.89,Large Shareholder,Healthcare,5.18,-5.6,-4.82,-10.64,-17.56,0
+2022-03-02,DKNG,13.04,1164000.0,7129424400.0,7.46,Director,Consumer Cyclical,-21.44,-25.05,-24.19,-16.3,-29.24,0
+2022-03-14,DKNG,13.82,769500.0,7638669000.0,7.46,Director,Consumer Cyclical,-7.99,28.57,27.2,24.84,-3.8,1
+2021-11-16,DKNG,10.6,1976000.0,14266868400.0,7.75,Director,Consumer Cyclical,-24.85,-6.34,-9.42,-20.39,-32.31,0
+2022-03-08,DKNG,13.04,872500.0,7129424400.0,7.46,Director,Consumer Cyclical,-21.44,-12.2,5.41,7.31,-2.88,0
+2022-02-23,DKNG,13.68,802000.0,8901756000.0,7.46,Director,Consumer Cyclical,-7.13,19.82,6.52,-17.83,-2.95,1
+2022-12-12,DYN,10.06,10000016.7,548971200.0,1.55,Director,Healthcare,-5.23,16.05,16.91,0.43,15.97,1
+2022-05-18,ENOB,10.84,1027944.0,308310000.0,61.07,"Large Shareholder, Director",Healthcare,-13.3,-0.68,-24.87,-40.27,-67.34,0
+2021-08-13,EOLS,10.7,545715.55,600190800.0,33.99,Large Shareholder,Healthcare,-5.82,-0.94,3.77,-0.94,-25.75,0
+2021-08-16,EOLS,10.7,737035.0,600190800.0,33.99,Large Shareholder,Healthcare,-5.82,-3.21,-0.98,-14.11,-30.36,0
+2021-08-17,EOLS,10.7,748062.0,600190800.0,33.99,Large Shareholder,Healthcare,-5.82,8.91,9.41,-6.24,-25.05,0
+2021-08-19,EOLS,10.7,578110.5,600190800.0,33.99,Large Shareholder,Healthcare,-5.82,5.24,2.19,-16.67,-27.43,0
+2021-08-20,EOLS,10.7,506697.6,600190800.0,33.99,Large Shareholder,Healthcare,-5.82,-0.74,-2.4,-25.18,-28.69,0
+2021-08-23,EOLS,10.7,769775.15,600190800.0,33.99,Large Shareholder,Healthcare,-5.82,-2.45,-3.64,-26.45,-31.55,0
+2021-08-24,EOLS,10.7,807032.88,600190800.0,33.99,Large Shareholder,Healthcare,-5.82,-4.6,-6.85,-28.67,-34.17,0
+2021-08-26,EOLS,10.7,727405.8,600190800.0,33.99,Large Shareholder,Healthcare,-5.82,-4.0,-10.59,-24.81,-34.2,0
+2021-08-27,EOLS,10.7,557567.7,600190800.0,33.99,Large Shareholder,Healthcare,-5.82,-2.14,-11.74,-23.39,-36.44,0
+2022-09-23,ESTE,29.3,1705050.0,475387800.0,10.03,"Large Shareholder, Other",Energy,-23.22,8.63,20.73,29.18,40.75,1
+2022-10-06,ESTE,29.3,14750000.0,475387800.0,10.03,"Large Shareholder, Other",Energy,-23.22,-8.39,-10.35,5.64,11.66,0
+2022-10-12,EVA,12.5,3485155.5,2312132800.0,3.91,Director,Basic Materials,-11.13,9.15,-1.15,17.06,16.87,1
+2022-11-30,EVA,17.13,1528166.9,2270501600.0,3.91,Director,Basic Materials,-2.25,-2.31,-1.55,-6.38,-10.59,0
+2022-10-14,EVA,12.5,1706220.96,2312132800.0,3.91,Director,Basic Materials,-11.13,5.43,14.93,24.78,24.59,1
+2022-10-20,EVA,12.5,1256125.0,2312132800.0,3.91,Director,Basic Materials,-11.13,14.91,17.02,13.39,13.05,1
+2023-05-05,EVA,19.9,542634.56,361070600.0,3.91,Director,Basic Materials,-65.67,-3.55,-7.99,-7.1,31.85,1
+2023-05-08,EVA,19.9,1022000.0,361070600.0,3.91,Director,Basic Materials,-65.67,-5.8,-10.6,-4.69,31.36,1
+2023-04-21,FATE,29.95,1586029.02,567061200.0,1.46,"Large Shareholder, Director",Healthcare,3.8,-6.11,2.25,-15.43,-15.59,0
+2023-03-28,FL,10.58,501280.36,4165414200.0,1.65,"Officer, Director",Consumer Cyclical,-5.44,3.47,1.72,3.02,-0.25,0
+2022-05-12,FLR,11.14,1025320.0,3663532800.0,1.54,Director,Industrials,-6.5,0.54,0.85,10.57,-8.13,0
+2021-08-20,FNKO,17.07,3085712.65,722442600.0,16.71,Large Shareholder,Consumer Cyclical,-1.68,8.9,3.04,-0.5,5.08,0
+2022-08-08,GCI,11.68,1220000.0,337748700.0,8.15,"Officer, Director",Communication Services,-23.14,8.47,3.39,-3.81,-8.05,0
+2021-08-31,GDRX,30.94,23993237.78,2948648400.0,8.45,Large Shareholder,Healthcare,24.19,9.55,10.7,21.94,6.86,1
+2021-09-01,GDRX,30.94,1347487.2,2948648400.0,8.45,Large Shareholder,Healthcare,24.19,5.16,11.64,19.91,10.9,1
+2021-09-03,GDRX,30.94,1470951.25,2948648400.0,8.45,Large Shareholder,Healthcare,24.19,1.63,6.95,5.8,1.7,0
+2021-09-07,GDRX,30.94,5863406.67,2948648400.0,8.45,Large Shareholder,Healthcare,24.19,6.17,6.34,2.74,0.98,0
+2021-09-08,GDRX,30.94,2303588.64,2948648400.0,8.45,Large Shareholder,Healthcare,24.19,11.72,15.03,0.23,11.47,1
+2022-03-22,GME,18.59,855395.41,10226449800.0,17.98,"Large Shareholder, Director",Consumer Cyclical,29.18,53.96,35.5,19.32,-2.2,1
+2023-05-30,GO,10.24,1015000.0,2675094500.0,8.25,Director,Consumer Defensive,-4.27,-2.24,0.04,-0.39,15.22,0
+2023-03-06,GO,10.46,955614.84,2602354900.0,8.84,Director,Consumer Defensive,-8.38,-1.8,-0.15,0.77,4.93,0
+2023-03-07,GO,10.46,545000.0,2602354900.0,8.84,Director,Consumer Defensive,-8.38,0.52,1.93,4.83,5.24,0
+2022-09-13,GOEV,18.82,515800.0,484500000.0,23.98,"Large Shareholder, Officer, Director",Consumer Cyclical,-38.74,-1.96,-5.88,-27.84,-46.67,0
+2022-08-12,GOEV,24.4,797000.0,866875000.0,23.98,"Large Shareholder, Officer, Director",Consumer Cyclical,13.5,-10.98,-16.12,-29.67,-48.13,0
+2021-11-22,GOEV,29.72,230334440.04,2940250000.0,58.21,"Large Shareholder, Officer, Director",Consumer Cyclical,54.67,12.77,-1.05,-20.56,-32.2,1
+2022-07-15,GOSS,21.77,999998.16,882833300.0,11.27,"Officer, Director",Healthcare,42.41,8.48,6.41,15.97,26.9,1
+2022-04-25,GRPN,20.28,1352916.24,398944000.0,21.67,Other,Communication Services,-28.76,-2.89,-4.78,-26.53,-25.24,0
+2022-05-09,GRPN,25.68,3272806.9,332841600.0,21.67,"Large Shareholder, Other",Communication Services,-36.64,-5.75,-8.62,-0.51,-2.04,0
+2022-05-24,GRPN,26.02,2247920.35,473782400.0,21.67,"Large Shareholder, Other",Communication Services,-5.86,35.17,37.18,29.4,-4.11,1
+2022-04-26,GRPN,20.28,1305051.55,398944000.0,21.67,Other,Communication Services,-28.76,5.06,0.1,-27.1,-23.8,0
+2022-05-10,GRPN,25.68,4734939.64,332841600.0,21.67,"Large Shareholder, Other",Communication Services,-36.64,3.07,-7.3,12.77,8.83,0
+2022-04-27,GRPN,20.28,3883511.46,398944000.0,21.67,Other,Communication Services,-28.76,0.05,-3.09,-25.16,-14.38,0
+2022-05-11,GRPN,25.68,680200.0,332841600.0,21.67,"Large Shareholder, Other",Communication Services,-36.64,12.41,-1.65,21.37,22.0,1
+2022-03-31,GRPN,18.87,1514218.82,566092800.0,21.67,Other,Communication Services,-8.69,2.86,4.32,1.46,-26.0,0
+2022-04-01,GRPN,18.87,580948.23,566092800.0,21.67,Other,Communication Services,-8.69,4.18,1.46,-1.98,-22.96,0
+2022-04-04,GRPN,18.87,1138230.26,566092800.0,21.67,Other,Communication Services,-8.69,0.5,-1.85,0.65,-29.26,0
+2022-04-05,GRPN,18.87,530931.04,566092800.0,21.67,Other,Communication Services,-8.69,-4.14,-3.06,-4.49,-29.44,0
+2022-04-06,GRPN,18.87,2297670.4,566092800.0,21.67,Other,Communication Services,-8.69,-0.96,0.2,-3.34,-35.79,0
+2022-04-07,GRPN,18.87,622703.41,566092800.0,21.67,Other,Communication Services,-8.69,-1.5,-3.01,1.6,-37.27,0
+2022-05-23,GRPN,25.68,613135.98,332841600.0,21.67,"Large Shareholder, Other",Communication Services,-36.64,28.44,27.37,21.1,-12.28,1
+2022-04-08,GRPN,18.87,1188934.97,566092800.0,21.67,Other,Communication Services,-8.69,-1.2,3.19,-2.74,-39.83,0
+2022-04-11,GRPN,18.87,1142421.03,566092800.0,21.67,Other,Communication Services,-8.69,-0.41,1.54,4.68,-37.6,0
+2022-04-19,GRPN,18.87,1740669.23,566092800.0,21.67,Other,Communication Services,-8.69,-2.95,-7.63,-24.35,-25.36,0
+2022-04-20,GRPN,18.87,889583.52,566092800.0,21.67,Other,Communication Services,-8.69,-1.87,2.74,-30.6,-21.73,0
+2022-04-21,GRPN,18.87,1462386.32,566092800.0,21.67,Other,Communication Services,-8.69,-2.0,0.0,-34.75,-19.63,0
+2022-05-31,IOVA,12.36,3384550.0,1305339000.0,0.6,Director,Healthcare,-40.52,11.56,35.41,36.15,84.44,1
+2022-06-01,IOVA,12.36,3215500.0,1305339000.0,0.6,Director,Healthcare,-40.52,30.41,33.86,54.55,99.06,1
+2021-08-18,KDNY,25.42,2497830.0,520850200.0,13.76,Director,Healthcare,-16.03,14.01,16.01,12.93,4.17,1
+2022-12-30,KMX,11.75,501255.6,11001204500.0,0.32,"Officer, Director",Consumer Cyclical,3.39,8.03,10.67,10.58,23.34,1
+2022-03-18,KODK,11.66,4748589.51,539295000.0,28.0,Director,Industrials,50.8,10.63,11.43,8.53,-16.75,1
+2022-03-21,KODK,11.66,837971.0,539295000.0,28.0,Director,Industrials,50.8,6.15,13.43,2.91,-13.43,1
+2023-03-29,KSS,19.97,2018350.0,3608913000.0,1.23,"Officer, Director",Consumer Cyclical,-14.96,8.89,2.77,6.35,-9.43,0
+2022-08-19,KSS,11.6,750130.0,4636906400.0,1.23,Director,Consumer Cyclical,-9.57,1.71,-6.02,2.74,-15.86,0
+2022-05-10,LAZR,18.45,2666550.0,1987993700.0,10.19,"Large Shareholder, Officer, Director",Technology,-34.59,6.05,5.1,9.77,-21.55,0
+2022-05-11,LAZR,18.45,2595840.0,1987993700.0,10.19,"Large Shareholder, Officer, Director",Technology,-34.59,21.55,17.92,14.52,-10.3,1
+2023-05-15,LAZR,29.73,7959545.31,1478673000.0,13.48,"Large Shareholder, Officer, Director",Technology,0.1,3.29,6.43,11.2,4.28,0
+2023-05-16,LAZR,29.73,4841848.89,1478673000.0,13.48,"Large Shareholder, Officer, Director",Technology,0.1,17.3,4.83,19.3,10.32,1
+2022-01-21,LAZR,13.4,892632.0,3168585000.0,10.19,"Large Shareholder, Officer, Director",Technology,-17.4,-5.03,9.91,19.97,1.8,1
+2022-09-06,LAZR,25.47,500252.78,2208621100.0,13.48,Director,Technology,20.69,14.62,8.28,-11.08,-10.96,1
+2021-12-28,NOVA,16.78,522600.0,2739905900.0,5.33,Director,Technology,-27.4,10.41,-8.22,-13.63,-30.95,1
+2021-08-13,NVRO,10.25,735490.0,4022654800.0,1.99,"Officer, Director",Healthcare,-20.61,6.69,8.33,22.57,17.85,1
+2021-12-02,OPEN,13.48,1995342.52,8717342100.0,14.62,Director,Real Estate,-24.02,7.84,2.96,1.65,-16.98,0
+2022-05-10,OPK,11.39,1113560.0,2030584800.0,39.72,"Large Shareholder, Officer, Director",Healthcare,-5.48,1.37,-2.39,2.39,-15.02,0
+2022-05-11,OPK,11.39,1132400.0,2030584800.0,39.72,"Large Shareholder, Officer, Director",Healthcare,-5.48,15.24,11.15,11.15,-2.23,1
+2022-02-25,OPK,10.44,2315325.0,2144512000.0,39.72,"Large Shareholder, Officer, Director",Healthcare,-17.65,-1.56,-2.5,14.06,7.81,0
+2021-11-19,PGEN,14.87,1153728.75,835960500.0,12.3,"Large Shareholder, Director",Healthcare,-14.88,2.66,4.79,2.39,5.85,0
+2021-11-22,PGEN,14.87,581235.36,835960500.0,12.3,"Large Shareholder, Director",Healthcare,-14.88,5.59,7.54,3.35,1.4,0
+2021-11-23,PGEN,14.87,1741079.3,835960500.0,12.3,"Large Shareholder, Director",Healthcare,-14.88,8.54,9.92,-2.75,-10.47,0
+2022-07-13,PLAY,11.15,1020096.12,1622608800.0,2.28,"Officer, Director",Consumer Cyclical,-2.83,9.16,10.1,22.97,32.1,1
+2021-12-09,PLAY,12.32,523758.0,1635987200.0,1.85,"Officer, Director",Consumer Cyclical,-3.44,5.43,-1.4,12.41,-0.79,0
+2023-01-25,PRCH,14.9,940965.32,334776000.0,19.5,Large Shareholder,Technology,50.17,25.0,51.27,48.31,-15.68,1
+2023-02-21,RCM,10.96,1000001.38,3693213000.0,1.03,"Officer, Director",Healthcare,10.23,2.31,2.23,-4.11,5.91,0
+2022-05-09,RDFN,14.29,560105.0,976935600.0,2.98,Director,Real Estate,-35.73,6.83,4.4,-0.75,-25.91,0
+2021-11-17,REKR,21.14,534750.0,487714500.0,26.72,"Officer, Director",Technology,1.44,-6.92,-7.77,-1.13,-6.21,0
+2022-03-09,RILY,10.86,1884981.0,1911185100.0,42.44,"Large Shareholder, Officer, Director",Financial Services,8.38,2.91,8.98,14.86,-2.36,0
+2022-05-09,RILY,15.08,1217500.0,1347536400.0,42.44,"Large Shareholder, Officer, Director",Financial Services,-15.98,-1.27,6.21,12.34,-7.29,0
+2023-02-09,RILY,18.71,507396.25,1033763800.0,46.01,Director,Financial Services,-4.78,14.17,9.03,-2.4,-27.37,1
+2022-02-28,RILY,10.95,2906646.66,1708619600.0,42.44,"Large Shareholder, Officer, Director",Financial Services,-8.92,8.03,3.64,20.13,-1.95,1
+2022-05-10,RILY,15.08,2306490.0,1347536400.0,42.44,"Large Shareholder, Officer, Director",Financial Services,-15.98,4.09,5.19,14.69,-6.25,0
+2022-03-01,RILY,10.95,589752.0,1708619600.0,42.44,Officer,Financial Services,-8.92,6.72,6.38,17.18,-2.07,1
+2022-05-11,RILY,15.08,744790.75,1347536400.0,42.44,"Large Shareholder, Officer, Director",Financial Services,-15.98,13.52,12.19,18.08,-1.0,1
+2022-09-14,RILY,18.46,1186397.5,1244758200.0,46.01,"Large Shareholder, Officer, Director",Financial Services,-10.85,8.35,6.85,-1.62,-2.36,0
+2022-12-29,RILY,16.22,694651.43,1065848000.0,46.01,"Large Shareholder, Officer, Director",Financial Services,-3.07,-0.06,8.38,19.65,18.72,1
+2022-12-14,RILY,16.77,1627243.56,875789900.0,46.01,"Large Shareholder, Officer, Director",Financial Services,-23.22,-7.35,-20.62,-18.07,6.8,0
+2022-05-13,RILY,15.08,2414860.0,1347536400.0,42.44,"Officer, Director",Financial Services,-15.98,6.31,4.16,12.56,-6.54,0
+2022-08-30,RILY,20.04,1229337.5,1399741200.0,46.01,"Large Shareholder, Officer, Director",Financial Services,2.37,-1.2,1.59,4.64,-12.91,0
+2022-05-02,RILY,13.73,9020137.67,1288534100.0,42.44,"Large Shareholder, Officer, Director",Financial Services,-22.83,5.72,-1.8,4.46,-3.25,0
+2022-08-01,RILY,19.92,1303370.0,1521008600.0,46.01,Director,Financial Services,16.99,6.89,7.29,7.52,-1.27,0
+2022-08-31,RILY,20.04,1243897.5,1399741200.0,46.01,"Large Shareholder, Officer, Director",Financial Services,2.37,-2.31,2.39,4.0,-15.89,0
+2023-05-16,RILY,27.69,659062.0,1002767200.0,46.01,"Large Shareholder, Officer, Director",Financial Services,18.09,11.42,9.29,12.58,38.34,1
+2021-11-17,RILY,10.23,1547000.0,2183628900.0,43.22,"Large Shareholder, Officer, Director",Financial Services,20.27,0.69,-0.63,-0.36,13.54,0
+2022-05-03,RILY,13.73,2377661.6,1288534100.0,42.44,"Large Shareholder, Officer, Director",Financial Services,-22.83,-3.78,-9.97,-1.04,-6.92,0
+2022-08-02,RILY,19.92,654173.75,1521008600.0,46.01,Director,Financial Services,16.99,6.0,4.74,0.67,-9.15,0
+2022-12-05,RILY,18.98,2196025.0,1176239400.0,46.01,"Large Shareholder, Officer, Director",Financial Services,-0.07,0.6,0.53,-25.86,-6.58,0
+2023-03-17,RILY,24.26,747462.5,733042400.0,46.01,"Large Shareholder, Officer, Director",Financial Services,-30.92,-3.59,-4.87,-15.14,5.78,0
+2022-05-18,RILY,15.08,1068895.52,1347536400.0,42.44,Large Shareholder,Financial Services,-15.98,-0.58,7.12,5.1,-15.25,0
+2023-01-09,RILY,16.22,744346.0,1065848000.0,46.01,Director,Financial Services,-3.07,7.82,7.9,17.57,9.13,1
+2023-05-08,RILY,33.59,866412.5,1065848000.0,46.01,"Large Shareholder, Officer, Director",Financial Services,24.6,-6.62,-8.55,3.15,17.2,0
+2022-05-23,RILY,15.08,798490.77,1347536400.0,42.44,Large Shareholder,Financial Services,-15.98,9.24,7.43,-7.23,-12.72,0
+2023-02-08,RILY,19.66,5460788.08,1074820700.0,46.01,"Large Shareholder, Officer, Director",Financial Services,-1.87,9.82,10.88,-2.22,-24.07,1
+2021-08-04,RNA,18.99,14400000.0,744876000.0,19.61,Large Shareholder,Healthcare,-14.6,0.76,1.02,7.99,16.44,0
+2022-01-19,RPTX,10.12,5812922.4,601250000.0,1.44,Large Shareholder,Healthcare,-29.46,-2.48,-2.19,5.52,14.15,0
+2022-05-18,RPTX,10.23,1613997.0,361860000.0,1.39,Large Shareholder,Healthcare,-23.55,-0.23,-1.69,62.08,57.9,1
+2023-03-07,RVMD,10.77,6999982.0,1593648000.0,1.49,Director,Healthcare,-9.99,-8.17,-6.55,-14.48,-1.3,0
+2023-03-10,RVMD,10.77,1916334.0,1593648000.0,1.49,Director,Healthcare,-9.99,7.13,4.87,3.37,17.0,0
+2023-03-07,SAVA,27.62,1990629.76,991847900.0,6.79,Director,Healthcare,-13.5,1.67,3.37,-4.21,-2.54,0
+2022-07-08,SBOW,25.85,3704113.25,318432200.0,11.81,Large Shareholder,Energy,-25.65,-6.93,2.8,46.48,57.21,1
+2022-07-11,SBOW,25.85,5836276.35,318432200.0,11.81,Large Shareholder,Energy,-25.65,-0.95,10.43,53.03,58.72,1
+2021-09-13,SFIX,17.55,8638104.0,3140251300.0,3.45,Large Shareholder,Consumer Cyclical,-8.34,-1.36,-1.5,14.31,-4.11,0
+2021-09-14,SFIX,17.55,9753474.7,3140251300.0,3.45,Large Shareholder,Consumer Cyclical,-8.34,1.91,14.91,7.0,-1.99,1
+2021-09-15,SFIX,17.55,10335930.0,3140251300.0,3.45,Large Shareholder,Consumer Cyclical,-8.34,5.41,22.71,7.37,-0.56,1
+2021-09-16,SFIX,17.55,7838415.0,3140251300.0,3.45,Large Shareholder,Consumer Cyclical,-8.34,19.88,27.83,3.48,-4.94,1
+2021-09-17,SFIX,17.55,5248755.0,3140251300.0,3.45,Large Shareholder,Consumer Cyclical,-8.34,16.25,20.5,3.94,-4.0,1
+2021-09-20,SFIX,17.55,8038710.0,3140251300.0,3.45,Large Shareholder,Consumer Cyclical,-8.34,20.24,14.38,-5.25,-4.87,1
+2021-09-21,SFIX,17.55,7295600.0,3140251300.0,3.45,Large Shareholder,Consumer Cyclical,-8.34,20.67,11.34,-7.33,-2.82,1
+2021-09-09,SFIX,16.91,4702512.0,2619628800.0,3.45,Large Shareholder,Consumer Cyclical,-26.29,-13.52,-8.71,1.49,-13.57,0
+2021-09-10,SFIX,16.91,4531764.0,2619628800.0,3.45,Large Shareholder,Consumer Cyclical,-26.29,-6.22,-0.3,9.51,-4.44,0
+2021-10-14,SFIX,19.01,1719500.0,2359676600.0,3.45,Large Shareholder,Consumer Cyclical,-19.59,-2.64,-0.03,1.07,-19.52,0
+2021-10-15,SFIX,19.01,1699360.0,2359676600.0,3.45,Large Shareholder,Consumer Cyclical,-19.59,3.6,3.95,6.21,-17.0,0
+2022-07-11,SHAK,10.88,762610.55,1589415000.0,5.06,"Large Shareholder, Director",Consumer Cyclical,-9.81,17.92,17.21,30.61,25.94,1
+2022-09-12,SIX,10.42,1194740.0,1554098000.0,1.34,"Large Shareholder, Director",Consumer Cyclical,-20.73,-6.72,-4.51,-26.1,-13.82,0
+2022-09-13,SIX,10.42,2281484.47,1554098000.0,1.34,"Large Shareholder, Director",Consumer Cyclical,-20.73,0.09,-7.07,-22.0,-6.58,0
+2022-09-14,SIX,10.42,1102430.0,1554098000.0,1.34,"Large Shareholder, Director",Consumer Cyclical,-20.73,3.02,-12.79,-13.51,-1.94,0
+2022-11-11,SIX,11.31,1737490.23,1929814000.0,1.34,"Large Shareholder, Director",Consumer Cyclical,7.74,-5.85,-7.71,0.93,-2.2,0
+2022-11-14,SIX,11.31,3543150.0,1929814000.0,1.34,"Large Shareholder, Director",Consumer Cyclical,7.74,-5.34,-6.74,-2.63,-3.14,0
+2022-11-22,SIX,11.31,1089650.0,1929814000.0,1.34,"Large Shareholder, Director",Consumer Cyclical,7.74,6.27,9.23,1.45,17.23,0
+2021-11-09,SKLZ,25.49,998016.0,3200351000.0,14.88,Director,Communication Services,-6.48,-4.84,-12.26,-25.08,-29.92,0
+2021-11-08,SKLZ,24.61,4969207.5,4053560000.0,14.88,"Large Shareholder, Officer, Director",Communication Services,16.95,1.3,-5.35,-23.01,-36.14,0
+2021-08-24,SPRO,10.71,653794.87,543554400.0,15.8,Large Shareholder,Healthcare,21.09,11.21,7.7,14.29,15.65,1
+2021-09-13,SPRO,10.91,820674.65,555719100.0,15.8,Large Shareholder,Healthcare,23.47,2.96,2.31,-5.65,-9.35,0
+2021-09-30,SPRO,10.23,2509173.13,512400900.0,15.8,Large Shareholder,Healthcare,3.33,-5.98,-7.22,-7.22,-7.55,0
+2021-08-30,SPRO,10.71,786858.78,543554400.0,15.8,Large Shareholder,Healthcare,21.09,-0.78,-0.66,5.26,-4.32,0
+2021-08-31,SPRO,10.71,920660.13,543554400.0,15.8,Large Shareholder,Healthcare,21.09,-5.82,-3.9,-1.14,-8.05,0
+2021-08-20,SPRO,11.59,3286905.52,481544100.0,10.81,Large Shareholder,Healthcare,12.58,7.5,16.75,18.5,13.52,1
+2021-08-23,SPRO,11.59,2251341.76,481544100.0,10.81,Large Shareholder,Healthcare,12.58,2.85,16.74,12.8,9.64,1
+2021-10-29,SPRO,10.03,2630175.0,495785700.0,15.8,Large Shareholder,Healthcare,-4.09,-0.28,-2.45,-6.66,-22.38,0
+2022-01-14,THO,10.76,985384.0,5082816000.0,4.36,Director,Consumer Cyclical,-10.64,-12.65,-7.53,-6.79,-9.47,0
+2022-04-05,THO,11.6,748545.84,4557312000.0,4.36,Director,Consumer Cyclical,-5.96,2.5,0.26,-6.48,-0.79,0
+2023-01-23,TREE,10.05,1293440.96,427251000.0,15.11,"Large Shareholder, Officer, Director",Financial Services,34.12,18.86,23.01,35.24,2.26,1
+2022-03-04,TRIP,13.53,1036617.76,2955059100.0,19.91,Director,Consumer Cyclical,-12.06,11.31,9.96,21.59,24.33,1
+2022-06-10,TUP,11.57,1031900.0,300006800.0,6.26,"Officer, Director",Consumer Cyclical,-53.53,3.06,11.61,8.06,12.26,1
+2022-05-12,UWMC,24.79,1010056.36,399035700.0,0.2,"Officer, Director",Financial Services,-4.39,8.38,7.03,10.54,3.51,0
+2021-11-22,VCTR,10.62,1017828.0,563836500.0,3.04,Officer,Financial Services,-3.65,2.66,4.41,-1.02,5.67,0
+2021-11-23,VCTR,10.62,500500.9,563836500.0,3.04,Director,Financial Services,-3.65,-0.37,3.04,-2.22,-0.06,0
+2022-03-03,W,21.38,1222400.0,9837764400.0,6.07,Director,Consumer Cyclical,-16.46,2.12,-7.76,-2.43,-5.71,0
+2022-05-19,W,29.2,1745100.0,3533396400.0,6.07,Director,Consumer Cyclical,-51.66,1.17,18.74,8.61,-8.85,1
+2021-11-22,W,24.05,2589800.0,21686404800.0,6.31,Director,Consumer Cyclical,9.42,3.47,-5.57,-20.49,-27.95,0
