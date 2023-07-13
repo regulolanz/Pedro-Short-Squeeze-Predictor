@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Project Structure](#project-structure)
 - [Concepts Review](#concepts-review)
 - [Example](#example)
 - [Installation and Usage](#installation-and-usage)
@@ -10,11 +11,22 @@
 - [Machine Learning Models](#machine-learning-models)
 - [Results and Summary](#results-and-summary)
 - [Analysis](#analysis)
+- [Future Work](#future-work)
+- [Contributing](#contributing)
+- [License](#license)
 - [Conclusion](#conclusion)
 
 ## Project Overview
 
 Pedro is a machine learning project focused on predicting short squeezes in the stock market. By analyzing historical data on short float percentages and insider trading activity, Pedro aims to identify stocks with a high potential for rapid price increases. Leveraging various machine learning models, Pedro provides investors with insights to make informed trading decisions and take advantage of short squeeze opportunities in the market.
+
+## Project Structure
+
+1. **Data collection and preprocessing**: We gather historical stock data and insider trading information, clean the data, and preprocess it for machine learning.
+
+2. **Model training and evaluation**: We use various machine learning models, including Decision Trees, Random Forests, Gradient Boosting, XGBoost, and Neural Networks. We then evaluate the models using accuracy, precision, and recall metrics.
+
+3. **Integration with Alpaca API**: We integrate the trained models with the Alpaca API to perform simulated trading based on the predicted short squeeze opportunities.
 
 ## Concepts Review
 
@@ -68,6 +80,24 @@ git clone https://github.com/regulolanz/Pedro-Short-Squeeze-Predictor
 python Pedro.py
 ```
 
+4. Load the environment variables 
+
+```python
+load_dotenv(dotenv_path="Alpaca.env")
+```
+
+5. Create the Alpaca API:
+
+```python
+api = create_alpaca_api()
+```
+
+6. Load the trained models:
+
+```python
+models = load_models(model_names)
+```
+
 ## Data Preparation
 
 ### Data Collection: 
@@ -80,21 +110,26 @@ https://shortsqueeze.com/2023.php
 
 Insider Trading:
 
-https://github.com/JackLacey18/Insider-Trades
-
-https://www.kaggle.com/datasets/jacklacey/insider-trades-for-1000-companies
-
 https://www.insidermonkey.com/insider-trading/purchases/
 
 
 Filters:
-- Short Float = >17%
+- Short Float = >10%
 - Market Cap = >300M
-- Insider Trading = >1M
+- Insider Trading = >500K
 
 ### Data Processing:
 
-The stock market data, float short, and insider trading data are combined based on the common stock ticker symbol or company identifier. Data cleaning and features engineering techniques are applied. This include handling missing values, normalizing or scaling features, encoding categorical variables, splitting the dataset into features and target variables. The features will include the selected columns from the previous step, while the target variable will be the 'Short Squeeze' column.
+- The stock market data, float short, and insider trading data are combined based on the common stock ticker symbol or company identifier. Data cleaning and features engineering techniques are applied. This include handling missing values, normalizing or scaling features, encoding categorical variables, splitting the dataset into features and target variables. The features will include the selected columns from the previous step, while the target variable will be the 'Short Squeeze' column.
+
+- To identify a Short Squeeze based on return values in a DataFrame:
+    - Calculate the difference in days between the Short Float and Insider Trading event, storing it in a new column.
+    - Filter out difference that is greater than 30 days.
+    - Drop duplicates, keeping only the first occurance.
+    - Retrieve closing price since the selected date up to 30 days.
+    - A new column named 'Short Squeeze' is added to the DataFrame and initialized with 0.
+    - If the return is >= 10% for either 5 or 7 days, or >= 15% for 15 days, or >= 20% for 30 days, the 'Short Squeeze' column is set to 1 for those rows.
+    - All other rows where the conditions are not met have their 'Short Squeeze' value set to 0.
 
 ## Machine Learning Models: 
 
@@ -123,37 +158,71 @@ The XGBClassifier is an implementation of the gradient boosting algorithm using 
 ## Results and Summary
 
 - GradientBoostingClassifier:
-    - Precision: 0.33
-    - Recall: 0.33
-    - F1-Score: 0.33
+    - Accuracy: 0.65
+    - Precision: 0.43
+    - Recall: 0.64
+    - F1-Score: 0.51
 ***
 - SVC (Support Vector Classifier):
-    - Precision: 0.00
-    - Recall: 0.00
-    - F1-Score: 0.00
+    - Accuracy: 0.61
+    - Precision: 0.35
+    - Recall: 0.43
+    - F1-Score: 0.39
 ***
 - RandomForestClassifier:
-    - Precision: 0.00
-    - Recall: 0.00
-    - F1-Score: 0.00
+    - Accuracy: 0.67
+    - Precision: 0.45
+    - Recall: 0.71
+    - F1-Score: 0.56
 ***
 - DecisionTreeClassifier:
-    - Precision: 0.20
-    - Recall: 0.33
-    - F1-Score: 0.25
+    - Accuracy: 0.65
+    - Precision: 0.43
+    - Recall: 0.71
+    - F1-Score: 0.54
 ***
 - XGBClassifier:
-    - Precision: 0.33
-    - Recall: 0.33
-    - F1-Score: 0.33
+    - Accuracy: 0.71
+    - Precision: 0.50
+    - Recall: 0.71
+    - F1-Score: 0.59
 ***
 - Neural Network:
-    - Precision: 0.00
-    - Recall: 0.00
-    - F1-Score: 0.00
+    - Accuracy: 0.49
+    - Precision: 0.41
+    - Recall: 0.79
+    - F1-Score: 0.54
 
 ## Analysis
 
+![Models Comparison](Resources/Images/ModelsCompare.png)
+
+- Accuracy: 
+
+Accuracy represents the overall correctness of the classifier's predictions. Among the classifiers mentioned, the XGBClassifier achieves the highest accuracy of 0.71, indicating that it correctly classifies approximately 71% of the instances in the dataset. The RandomForestClassifier and GradientBoostingClassifier follow with accuracies of 0.67 and 0.65, respectively. The other classifiers, including the SVC, DecisionTreeClassifier, and Neural Network, exhibit lower accuracies ranging from 0.61 to 0.65.
+- Precision: 
+
+Precision measures the accuracy of positive predictions made by the classifiers. The RandomForestClassifier and XGBClassifier show relatively higher precision compared to other classifiers. This suggests that when these classifiers predict a positive instance, they are more likely to be correct.
+
+- Recall: 
+
+Recall indicates the ability of the classifiers to identify positive instances correctly. The Neural Network classifier demonstrates the highest recall, followed by the DecisionTreeClassifier and XGBClassifier. These classifiers have a better ability to capture the actual positive instances in the dataset.
+
+- F1-Score: 
+
+The F1-score provides a balance between precision and recall. The XGBClassifier achieves the highest F1-score, indicating a good balance between correctly identifying positive instances and limiting false positives.
+
+## Future Work
+
+We plan to improve our model's accuracy by further tuning the hyperparameters and exploring hybrid models. We also intend to deploy the model as a web service, making it accessible to traders and investors in real time.
+
+## Contributing
+
+If you wish to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Conclusion
 
