@@ -44,3 +44,4 @@ Here's a breakdown of the elements in a confusion matrix:
 The confusion matrix is often visualized using a heatmap, where the cells represent the counts or proportions of the predicted labels. The diagonal cells (top-left to bottom-right) represent the correct predictions, while the off-diagonal cells represent the incorrect predictions.
 
 The visualization helps you quickly assess the model's performance by looking at the distribution of the predicted labels compared to the actual labels. You can see how well the model is classifying the positive and negative examples based on the distribution of the counts in each cell.
+
