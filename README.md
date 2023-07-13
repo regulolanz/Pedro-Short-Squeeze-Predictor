@@ -214,7 +214,9 @@ The F1-score provides a balance between precision and recall. The XGBClassifier 
 
 ## Future Work
 
-We plan to improve our model's accuracy by further tuning the hyperparameters and exploring hybrid models. We also intend to deploy the model as a web service, making it accessible to traders and investors in real time.
+- Plan to improve the precision of the models by further tuning the hyperparameters, exploring hybrid models, and refining the feature selection.
+- Integrate live data feeds, which would allow the model to make real-time predictions based on the most recent market data.
+- Develop a strategy for generating sell signals to accompany the current buy signals, providing a complete trading strategy for users.
 
 ## Contributing
 
